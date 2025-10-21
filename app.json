@@ -3,6 +3,9 @@
     "name": "yurica-b2b-ios",
     "slug": "yurica-b2b-ios",
     "scheme": "yurica-b2b-ios",
+    "extra": {
+      "API_BASE": "http://192.168.0.xx:4000"
+    },
     "plugins": [],
     "web": { "output": "single" },
     "experiments": { "reactCompiler": false }
